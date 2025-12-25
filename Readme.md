@@ -80,14 +80,14 @@ Each task follows a structured lifecycle to ensure accountability and smooth exe
 ---
 
 ## 📸 Screenshots
-
+#### Admin Dashboard-
 ![image alt](https://github.com/Bidisha2005/micro-task/blob/main/Screenshot%202025-12-25%20171328.png?raw=true)
+#### Company Dashboard-
+![img alt](https://github.com/Bidisha2005/micro-task/blob/main/Screenshot%202025-12-25%20171418.png?raw=true)
+#### Worker Dashboard
+![img alt](https://github.com/Bidisha2005/micro-task/blob/main/Screenshot%202025-12-25%20171458.png?raw=true)
 
-(You can place images like this)
 
-```md
-![Worker Dashboard](./screenshots/worker-dashboard.png)
-![Company Dashboard](./screenshots/company-dashboard.png)
 
 
 
