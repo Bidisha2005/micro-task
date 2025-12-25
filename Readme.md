@@ -91,4 +91,5 @@ _Add 2–3 screenshots here to showcase:_
 ```md
 ![Worker Dashboard](./screenshots/worker-dashboard.png)
 ![Company Dashboard](./screenshots/company-dashboard.png)
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](https://github.com/Bidisha2005/micro-task/blob/main/Screenshot%202025-12-25%20171328.png?raw=true)
+
