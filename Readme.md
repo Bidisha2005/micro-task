@@ -34,6 +34,8 @@ This project focuses on **real-world system design**, **secure role-based access
 - Submit work (text or file links)
 - Manage profile, skills, and availability
 - Track earnings, completed tasks, and payment history
+#### Worker Dashboard
+![img alt](https://github.com/Bidisha2005/micro-task/blob/main/Screenshot%202025-12-25%20171458.png?raw=true)
 
 ---
 
@@ -43,6 +45,8 @@ This project focuses on **real-world system design**, **secure role-based access
 - Accept, reject, or request revisions for submissions
 - Manage company profile and verification status
 - View payment history for completed tasks
+#### Company Dashboard-
+![img alt](https://github.com/Bidisha2005/micro-task/blob/main/Screenshot%202025-12-25%20171418.png?raw=true)
 
 ---
 
@@ -52,6 +56,8 @@ This project focuses on **real-world system design**, **secure role-based access
 - Verify company profiles before activation
 - Moderate tasks before they go live
 - Track and review all financial transactions
+#### Admin Dashboard-
+![image alt](https://github.com/Bidisha2005/micro-task/blob/main/Screenshot%202025-12-25%20171328.png?raw=true)
 
 ---
 
@@ -78,14 +84,37 @@ Each task follows a structured lifecycle to ensure accountability and smooth exe
 - Workers and companies always see the latest task state
 
 ---
+### Quick Start (5 minutes)
 
-## 📸 Screenshots
-#### Admin Dashboard-
-![image alt](https://github.com/Bidisha2005/micro-task/blob/main/Screenshot%202025-12-25%20171328.png?raw=true)
-#### Company Dashboard-
-![img alt](https://github.com/Bidisha2005/micro-task/blob/main/Screenshot%202025-12-25%20171418.png?raw=true)
-#### Worker Dashboard
-![img alt](https://github.com/Bidisha2005/micro-task/blob/main/Screenshot%202025-12-25%20171458.png?raw=true)
+```bash
+# 1. Clone the repository
+git clone https://github.com/Bidisha2005/micro-task.git
+
+# Frontend:npm install
+npm run dev
+
+#Backend:npm install
+npm run dev
+
+# Application will be available at:
+# Backend:  http://localhost:5000
+# Frontend: http://localhost:3000
+```
+## 👤 Author
+
+**Bidisha Kundu**
+- GitHub: [@Bidisha2005](https://github.com/Bidisha2005)
+- LinkedIn: [Bidisha Kundu](https://www.linkedin.com/in/bidisha-kundu-41706428b/)
+
+---
+<div align="center">
+
+**⭐ Star this repo if you find it useful! ⭐**
+
+Made with ❤️ , by Bidisha
+
+</div>
+
 
 
 
